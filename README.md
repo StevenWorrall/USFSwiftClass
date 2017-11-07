@@ -19,5 +19,3 @@ Clone this repository in the command line:
 $ git clone https://github.com/StevenWorrall/USFSwiftClass.git
 
 > If you do not have git installed, when you enter this command, you will be prompted to install developer tools. Your Mac will automatically install git, and many more useful tool that we will use throughout the course.
-
-You can also view the powerpoints [here](https://www.mbobpro.com/learn)
