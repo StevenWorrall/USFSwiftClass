@@ -15,6 +15,11 @@
 
 Presentations from lectures and Xcode projects. 
 
+Developing on Windows machines:
+https://learnappmaking.com/develop-ios-apps-on-windows-pc/
+
+**You can rent a macbook at the library for 4 hours at a time. We are currently working on getting xcode installed on these!**
+
 Clone this repository in the command line:
 $ git clone https://github.com/StevenWorrall/USFSwiftClass.git
 
